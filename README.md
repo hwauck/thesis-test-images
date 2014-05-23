@@ -14,4 +14,6 @@ Global Contour Matching (Open, Fist, Thumb, Two, Three, Four, Duck, and Negative
 Square Bounded Contour Matching (Open, Fist, Thumb, Two, Three, Four, Duck, and Negatives)
 
 
-Each set consists of about 25-35 images.
+Each set consists of about 25-35 images. Each gesture's folder contains its set of test images and 
+a text file that contains, for each test image, an indication of which gesture the algorithm guessed
+and what the similarity value between the chosen gesture in the training set and the test image was.
