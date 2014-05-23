@@ -1,0 +1,58 @@
+No valid contours!: test0.bmp
+No valid contours!: test1.bmp
+maxSim: 0.573
+Three Fingers: test2.bmp
+maxSim: 0.341552
+Three Fingers: test3.bmp
+maxSim: 0.448782
+Three Fingers: test4.bmp
+maxSim: 0.305317
+Open Hand: test5.bmp
+maxSim: 0.54867
+Open Hand: test6.bmp
+maxSim: 0.426441
+Four Fingers: test7.bmp
+maxSim: 0.190266
+Four Fingers: test8.bmp
+maxSim: 0.637664
+Open Hand: test9.bmp
+maxSim: 0.643446
+Open Hand: test10.bmp
+maxSim: 0.24688
+Four Fingers: test11.bmp
+maxSim: 0.777423
+Four Fingers: test12.bmp
+maxSim: 0.567524
+Three Fingers: test13.bmp
+maxSim: 0.171391
+Open Hand: test14.bmp
+maxSim: 0.12664
+Open Hand: test15.bmp
+maxSim: 0.0608219
+Open Hand: test16.bmp
+maxSim: 0.543497
+Open Hand: test17.bmp
+maxSim: 0.558935
+Open Hand: test18.bmp
+maxSim: 0.546167
+Three Fingers: test19.bmp
+maxSim: 0.120763
+Three Fingers: test20.bmp
+maxSim: 0.462626
+Three Fingers: test21.bmp
+maxSim: 0.548118
+Three Fingers: test22.bmp
+maxSim: 0.389886
+Three Fingers: test23.bmp
+maxSim: 0.333735
+Open Hand: test24.bmp
+maxSim: 0.500297
+Open Hand: test25.bmp
+maxSim: 0.524019
+Open Hand: test26.bmp
+maxSim: 0.265971
+Open Hand: test27.bmp
+maxSim: 0.670058
+Four Fingers: test28.bmp
+maxSim: 0.255212
+Four Fingers: test29.bmp

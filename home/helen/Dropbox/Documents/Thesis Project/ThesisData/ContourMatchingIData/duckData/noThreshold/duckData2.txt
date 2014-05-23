@@ -1,0 +1,62 @@
+No valid contours!: test0.bmp
+No valid contours!: test1.bmp
+maxSim: 0.710509
+Open Hand: test2.bmp
+maxSim: 1.43569
+Two Fingers: test3.bmp
+maxSim: 1.59815
+Duck Hand: test4.bmp
+maxSim: 1.16637
+Duck Hand: test5.bmp
+maxSim: 1.45796
+Duck Hand: test6.bmp
+maxSim: 0.567456
+Four Fingers: test7.bmp
+maxSim: 1.22157
+Duck Hand: test8.bmp
+maxSim: 1.44169
+Two Fingers: test9.bmp
+maxSim: 1.32569
+Duck Hand: test10.bmp
+maxSim: 1.41645
+Duck Hand: test11.bmp
+maxSim: 1.64817
+Two Fingers: test12.bmp
+maxSim: 1.01458
+Duck Hand: test13.bmp
+maxSim: 1.14413
+Duck Hand: test14.bmp
+maxSim: 0.9924
+Two Fingers: test15.bmp
+maxSim: 0.224785
+Thumb: test16.bmp
+maxSim: 0.166618
+Two Fingers: test17.bmp
+maxSim: 1.03925
+Duck Hand: test18.bmp
+maxSim: 0.896028
+Two Fingers: test19.bmp
+maxSim: 0.698295
+Three Fingers: test20.bmp
+maxSim: 0.302554
+Three Fingers: test21.bmp
+maxSim: 1.46345
+Two Fingers: test22.bmp
+maxSim: 0.961618
+Duck Hand: test23.bmp
+maxSim: 1.08904
+Duck Hand: test24.bmp
+maxSim: 1.09881
+Duck Hand: test25.bmp
+maxSim: 1.0381
+Duck Hand: test26.bmp
+maxSim: 0.662695
+Duck Hand: test27.bmp
+maxSim: 0.997233
+Duck Hand: test28.bmp
+maxSim: 1.50094
+Duck Hand: test29.bmp
+maxSim: 1.39203
+Duck Hand: test30.bmp
+maxSim: 1.31858
+Duck Hand: test31.bmp

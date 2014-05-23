@@ -1,0 +1,13 @@
+Notes:
+
+White background does not work; not enough contrast
+tried 119 threshold value, still didn't work - no good
+threshold value
+
+Performance seems heavily dependent on small
+fluctuations in lighting; the paper was bent up a bit
+on first test of Contours Matching II and required a 
+threshold of 115 due to the extra light reflection. But
+for the first data set in Contours Matching II, paper had
+become bent down, so a threshold of 80 was used in the second
+run to improve accuracy.

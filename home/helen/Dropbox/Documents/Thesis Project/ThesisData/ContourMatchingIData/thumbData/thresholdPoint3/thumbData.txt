@@ -1,0 +1,49 @@
+No valid contours!: test0.bmp
+No Match!: test1.bmp
+maxSim: 0.216909
+Four Fingers: test2.bmp
+No Match!: test3.bmp
+maxSim: 0.292949
+Open Hand: test4.bmp
+No Match!: test5.bmp
+No Match!: test6.bmp
+maxSim: 0.289096
+Two Fingers: test7.bmp
+No Match!: test8.bmp
+No Match!: test9.bmp
+No Match!: test10.bmp
+maxSim: 0.196684
+Thumb: test11.bmp
+No Match!: test12.bmp
+No Match!: test13.bmp
+No Match!: test14.bmp
+No Match!: test15.bmp
+No Match!: test16.bmp
+maxSim: 0.111183
+Open Hand: test17.bmp
+maxSim: 0.131424
+Open Hand: test18.bmp
+maxSim: 0.289046
+Open Hand: test19.bmp
+No Match!: test20.bmp
+No Match!: test21.bmp
+No Match!: test22.bmp
+No Match!: test23.bmp
+maxSim: 0.26278
+Open Hand: test24.bmp
+maxSim: 0.281187
+Open Hand: test25.bmp
+maxSim: 0.241319
+Open Hand: test26.bmp
+maxSim: 0.257633
+Open Hand: test27.bmp
+maxSim: 0.200553
+Open Hand: test28.bmp
+maxSim: 0.249202
+Open Hand: test29.bmp
+No Match!: test30.bmp
+No Match!: test31.bmp
+maxSim: 0.216729
+Open Hand: test32.bmp
+No Match!: test33.bmp
+No Match!: test34.bmp

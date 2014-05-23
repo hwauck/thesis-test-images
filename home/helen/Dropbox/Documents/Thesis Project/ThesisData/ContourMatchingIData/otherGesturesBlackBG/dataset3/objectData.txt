@@ -1,0 +1,62 @@
+Good evidence that arm does substantially affect result
+
+maxSim: 0.222265
+Fist: test63.bmp
+maxSim: 0.378095
+Three Fingers: test64.bmp
+maxSim: 0.337567
+Three Fingers: test65.bmp
+maxSim: 0.191391
+Open Hand: test66.bmp
+maxSim: 0.117033
+Two Fingers: test67.bmp
+maxSim: 0.137325
+Open Hand: test68.bmp
+maxSim: 0.298078
+Open Hand: test69.bmp
+maxSim: 0.227801
+Open Hand: test70.bmp
+maxSim: 0.207832
+Open Hand: test71.bmp
+maxSim: 0.108467
+Open Hand: test72.bmp
+maxSim: 0.202794
+Open Hand: test73.bmp
+maxSim: 0.29348
+Open Hand: test74.bmp
+maxSim: 0.490729
+Open Hand: test75.bmp
+maxSim: 0.244965
+Three Fingers: test76.bmp
+maxSim: 0.374898
+Three Fingers: test77.bmp
+maxSim: 0.134547
+Four Fingers: test78.bmp
+maxSim: 0.228477
+Four Fingers: test79.bmp
+maxSim: 0.220891
+Four Fingers: test80.bmp
+maxSim: 0.320162
+Three Fingers: test81.bmp
+maxSim: 0.290316
+Three Fingers: test82.bmp
+maxSim: 0.225436
+Four Fingers: test83.bmp
+maxSim: 0.322073
+Open Hand: test84.bmp
+maxSim: 0.154096
+Open Hand: test85.bmp
+maxSim: 0.409725
+Three Fingers: test86.bmp
+maxSim: 0.57677
+Three Fingers: test87.bmp
+maxSim: 1.43281
+Duck Hand: test88.bmp
+maxSim: 1.5654
+Two Fingers: test89.bmp
+maxSim: 0.824695
+Two Fingers: test90.bmp
+maxSim: 0.254068
+Open Hand: test91.bmp
+maxSim: 0.109882
+Open Hand: test92.bmp
