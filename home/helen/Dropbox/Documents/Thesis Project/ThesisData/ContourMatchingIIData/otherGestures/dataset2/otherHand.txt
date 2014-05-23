@@ -1,0 +1,51 @@
+maxSim: 0.110997
+Thumb: test30.bmp
+
+maxSim: 0.700161
+Two Fingers: test31.bmp
+
+maxSim: 0.132384
+Thumb: test32.bmp
+
+maxSim: 0.958027
+Two Fingers: test33.bmp
+
+maxSim: 0.689077
+Two Fingers: test34.bmp
+
+maxSim: 0.23351
+Fist: test35.bmp
+
+maxSim: 0.170938
+Open Hand: test36.bmp
+
+maxSim: 0.192927
+Open Hand: test37.bmp
+
+No valid contours!: test38.bmp
+
+No valid contours!: test39.bmp
+
+No valid contours!: test40.bmp
+
+maxSim: 0.135549
+Four Fingers: test41.bmp
+
+maxSim: 0.150195
+Four Fingers: test42.bmp
+
+maxSim: 0.579261
+Two Fingers: test43.bmp
+
+maxSim: 0.836746
+Two Fingers: test44.bmp
+
+maxSim: 0.11628
+Thumb: test45.bmp
+
+No valid contours!: test46.bmp
+
+No valid contours!: test47.bmp
+
+No valid contours!: test48.bmp
+

@@ -1,0 +1,98 @@
+No valid contours!: test0.bmp
+
+ 0.217121
+Thumb: test1.bmp
+
+ 0.240306
+Thumb: test2.bmp
+
+ 0.1534
+Thumb: test3.bmp
+
+ 1.51074
+Duck Hand: test4.bmp
+
+ 0.529538
+Fist: test5.bmp
+
+ 0.130231
+Open Hand: test6.bmp
+
+ 0.0809623
+Open Hand: test7.bmp
+
+ 0.110084
+Three Fingers: test8.bmp
+
+ 0.0813394
+Open Hand: test9.bmp
+
+ 0.0681343
+Open Hand: test10.bmp
+
+ 0.0929146
+Open Hand: test11.bmp
+
+ 0.356879
+Duck Hand: test12.bmp
+
+ 0.0835346
+Four Fingers: test13.bmp
+
+ 0.0967112
+Two Fingers: test14.bmp
+
+ 0.133551
+Three Fingers: test15.bmp
+
+ 0.349353
+Three Fingers: test16.bmp
+
+ 0.258161
+Two Fingers: test17.bmp
+
+ 0.395316
+Two Fingers: test18.bmp
+
+ 0.299268
+Four Fingers: test19.bmp
+
+ 0.349746
+Fist: test20.bmp
+
+ 0.107519
+Open Hand: test21.bmp
+
+ 0.112659
+Open Hand: test22.bmp
+
+ 0.11811
+Open Hand: test23.bmp
+
+ 0.129986
+Open Hand: test24.bmp
+
+ 0.228139
+Fist: test25.bmp
+
+ 0.17697
+Open Hand: test26.bmp
+
+ 0.073294
+Open Hand: test27.bmp
+
+ 0.181121
+Open Hand: test28.bmp
+
+ 0.209382
+Thumb: test29.bmp
+
+ 0.489934
+Duck Hand: test30.bmp
+
+ 0.997864
+Duck Hand: test31.bmp
+
+ 0.193927
+Thumb: test32.bmp
+
