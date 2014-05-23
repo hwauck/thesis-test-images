@@ -1,0 +1,74 @@
+No valid contours! test0.bmp
+
+ 5.32817 Fist test1.bmp
+
+ 2.72024 Three Fingers test2.bmp
+
+ 2.43565 Three Fingers test3.bmp
+
+ 3.21125 Fist test4.bmp
+
+ 3.47177 Three Fingers test5.bmp
+
+ 1.96464 Three Fingers test6.bmp
+
+ 3.86816 Three Fingers test7.bmp
+
+ 4.3242 Three Fingers test8.bmp
+
+ 4.06833 Three Fingers test9.bmp
+
+ 4.20665 Three Fingers test10.bmp
+
+ 3.91846 Three Fingers test11.bmp
+
+ 3.94233 Three Fingers test12.bmp
+
+ 6.72533 Open Hand test13.bmp
+
+ 2.73924 Three Fingers test14.bmp
+
+ 2.46503 Three Fingers test15.bmp
+
+ 3.95305 Three Fingers test16.bmp
+
+ 2.85021 Three Fingers test17.bmp
+
+ 3.74231 Three Fingers test18.bmp
+
+ 4.3592 Three Fingers test19.bmp
+
+ 3.3072 Open Hand test20.bmp
+
+ 2.76794 Two Fingers test21.bmp
+
+ 2.54178 Open Hand test22.bmp
+
+ 3.44876 Open Hand test23.bmp
+
+ 3.35963 Open Hand test24.bmp
+
+ 2.59388 Three Fingers test25.bmp
+
+ 2.44879 Two Fingers test26.bmp
+
+ 5.43542 Fist test27.bmp
+
+ 3.70425 Three Fingers test28.bmp
+
+ 2.50976 Three Fingers test29.bmp
+
+ 2.52237 Fist test30.bmp
+
+ 1.96284 Duck Hand test31.bmp
+
+ 2.7963 Three Fingers test32.bmp
+
+ 2.68303 Duck Hand test33.bmp
+
+ 2.26884 Three Fingers test34.bmp
+
+ 2.03536 Three Fingers test35.bmp
+
+ 2.53266 Two Fingers test36.bmp
+
