@@ -1,0 +1,74 @@
+ 0 Fist test0.bmp
+
+ 2.07564 Three Fingers test1.bmp
+
+ 1.86936 Three Fingers test2.bmp
+
+ 2.34968 Three Fingers test3.bmp
+
+ 2.27497 Three Fingers test4.bmp
+
+ 2.30065 Three Fingers test5.bmp
+
+ 1.93821 Three Fingers test6.bmp
+
+ 2.69199 Three Fingers test7.bmp
+
+ 1.99633 Three Fingers test8.bmp
+
+ 2.00276 Three Fingers test9.bmp
+
+ 2.9381 Three Fingers test10.bmp
+
+ 2.52631 Three Fingers test11.bmp
+
+ 2.68043 Three Fingers test12.bmp
+
+ 2.63657 Three Fingers test13.bmp
+
+ 1.8973 Three Fingers test14.bmp
+
+ 2.64868 Three Fingers test15.bmp
+
+ 2.06788 Three Fingers test16.bmp
+
+ 1.9661 Three Fingers test17.bmp
+
+ 1.72461 Three Fingers test18.bmp
+
+ 2.01395 Three Fingers test19.bmp
+
+ 3.04063 Three Fingers test20.bmp
+
+ 2.81695 Three Fingers test21.bmp
+
+ 2.39888 Three Fingers test22.bmp
+
+ 2.74827 Three Fingers test23.bmp
+
+ 2.33702 Three Fingers test24.bmp
+
+ 2.7918 Three Fingers test25.bmp
+
+ 2.41025 Three Fingers test26.bmp
+
+ 1.71067 Three Fingers test27.bmp
+
+ 1.61513 Three Fingers test28.bmp
+
+ 2.66066 Three Fingers test29.bmp
+
+ 2.22755 Three Fingers test30.bmp
+
+ 1.9689 Three Fingers test31.bmp
+
+ 2.33324 Three Fingers test32.bmp
+
+ 2.20986 Three Fingers test33.bmp
+
+ 2.69729 Three Fingers test34.bmp
+
+ 2.28231 Three Fingers test35.bmp
+
+ 2.54311 Three Fingers test36.bmp
+

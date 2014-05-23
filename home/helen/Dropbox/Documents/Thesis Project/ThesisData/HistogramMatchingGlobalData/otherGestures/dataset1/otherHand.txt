@@ -1,0 +1,70 @@
+maxIntersect: 0: Fist: test0.bmp
+
+maxIntersect: 1.5449: Three Fingers: test1.bmp
+
+maxIntersect: 2.08469: Three Fingers: test2.bmp
+
+maxIntersect: 1.56809: Three Fingers: test3.bmp
+
+maxIntersect: 1.64228: Three Fingers: test4.bmp
+
+maxIntersect: 2.27929: Three Fingers: test5.bmp
+
+maxIntersect: 1.9672: Three Fingers: test6.bmp
+
+maxIntersect: 1.74747: Three Fingers: test7.bmp
+
+maxIntersect: 2.56947: Three Fingers: test8.bmp
+
+maxIntersect: 2.88802: Three Fingers: test9.bmp
+
+maxIntersect: 1.95285: Three Fingers: test10.bmp
+
+maxIntersect: 3.08355: Three Fingers: test11.bmp
+
+maxIntersect: 2.70282: Three Fingers: test12.bmp
+
+maxIntersect: 2.54693: Three Fingers: test13.bmp
+
+maxIntersect: 1.89286: Three Fingers: test14.bmp
+
+maxIntersect: 1.81096: Three Fingers: test15.bmp
+
+maxIntersect: 1.86773: Three Fingers: test16.bmp
+
+maxIntersect: 2.09489: Three Fingers: test17.bmp
+
+maxIntersect: 1.99963: Three Fingers: test18.bmp
+
+maxIntersect: 1.77917: Three Fingers: test19.bmp
+
+maxIntersect: 2.373: Three Fingers: test20.bmp
+
+maxIntersect: 2.59438: Three Fingers: test21.bmp
+
+maxIntersect: 2.51329: Three Fingers: test22.bmp
+
+maxIntersect: 1.86554: Three Fingers: test23.bmp
+
+maxIntersect: 1.85778: Three Fingers: test24.bmp
+
+maxIntersect: 1.80463: Three Fingers: test25.bmp
+
+maxIntersect: 1.87743: Three Fingers: test26.bmp
+
+maxIntersect: 1.8899: Three Fingers: test27.bmp
+
+maxIntersect: 1.38613: Three Fingers: test28.bmp
+
+maxIntersect: 1.57797: Three Fingers: test29.bmp
+
+maxIntersect: 1.73736: Three Fingers: test30.bmp
+
+maxIntersect: 1.78333: Three Fingers: test31.bmp
+
+maxIntersect: 2.98321: Three Fingers: test32.bmp
+
+maxIntersect: 2.67294: Three Fingers: test33.bmp
+
+maxIntersect: 2.84895: Three Fingers: test34.bmp
+

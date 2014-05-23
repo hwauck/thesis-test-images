@@ -1,0 +1,26 @@
+
+
+maxIntersect: 2.42816: Three Fingers: test35.bmp
+
+maxIntersect: 2.08114: Three Fingers: test36.bmp
+
+maxIntersect: 1.0667: Three Fingers: test37.bmp
+
+maxIntersect: 1.78918: Three Fingers: test38.bmp
+
+maxIntersect: 1.92933: Three Fingers: test39.bmp
+
+maxIntersect: 1.73341: Three Fingers: test40.bmp
+
+maxIntersect: 1.10172: Three Fingers: test41.bmp
+
+maxIntersect: 1.88315: Three Fingers: test42.bmp
+
+maxIntersect: 1.96502: Three Fingers: test43.bmp
+
+maxIntersect: 1.84431: Three Fingers: test44.bmp
+
+maxIntersect: 1.8299: Three Fingers: test45.bmp
+
+maxIntersect: 1.9809: Three Fingers: test46.bmp
+
